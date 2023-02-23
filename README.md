@@ -5,10 +5,10 @@ Template repo for python packages
 - [ ] configuration using `pyproject.toml`
 - [ ] build using setuptools
 - [ ] bumpver config
-- [ ] smoke test
+- [x] smoke test
 - [ ] pre-commit config
 - [ ] ci with tests, pre-commit checks and uploading to pypi
-- [ ] dependabot config
+- [x] dependabot config
 
 ## install
 ```bash
