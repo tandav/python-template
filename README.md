@@ -3,11 +3,11 @@ Template repo for python packages
 
 ## features
 - [ ] configuration using `pyproject.toml`
-- [ ] build using setuptools
-- [ ] bumpver config
+- [x] build using setuptools
+- [x] bumpver config
 - [x] smoke test
-- [ ] pre-commit config
-- [ ] ci with tests, pre-commit checks and uploading to pypi
+- [x] pre-commit config
+- [x] ci with tests, pre-commit checks and uploading to pypi
 - [x] dependabot config
 
 ## install
