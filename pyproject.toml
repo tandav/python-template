@@ -23,7 +23,7 @@ tag = false
     '^version = "{pep440_version}"',
     '^current_version = "{version}"',
 ]
-"demand_serving/__init__.py" = [
+"mypackage/__init__.py" = [
     "^__version__ = '{pep440_version}'",
 ]
 
